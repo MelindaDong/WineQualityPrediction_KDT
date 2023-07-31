@@ -8,16 +8,16 @@ k-d tree (KDT), and random forest were inplemented to provide wine quality predi
 
 Wine quality rating is measured in the range of 0-9. In our dataset, we only keep the samples for quality ratings 5, 6 and 7. The 11 objective features are listed as follows:
 
-• f acid: fixed acidity
-• v acid: volatile acidity
-• c acid: citric acid
-• res sugar: residual sugar
-• chlorides: chlorides
-• fs dioxide: free sulfur dioxide 
-• ts dioxide: total sulfur dioxide 
-• density: density
-• pH: pH
-• sulphates: sulphates 
-• alcohol: alcohol
+- f acid: fixed acidity
+- v acid: volatile acidity
+- c acid: citric acid
+- res sugar: residual sugar
+- chlorides: chlorides
+- fs dioxide: free sulfur dioxide
+- ts dioxide: total sulfur dioxide
+- density: density
+- pH: pH
+- sulphates: sulphates
+- alcohol: alcohol
 
 __main algorithms can be found in `main_algorithm` file.__
